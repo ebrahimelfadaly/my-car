@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_elvation">16dp</dimen>
+    <dimen name="mairgn_floating">16dp</dimen>
+    <dimen name="card_cornradis">16dp</dimen>
+    <dimen name="card_elva">10dp</dimen>
+    <dimen name="card_rad">10dp</dimen>
+    <dimen name="img_car_view_higt">100dp</dimen>
+    <dimen name="car_view_color">250dp</dimen>
+</resources>
